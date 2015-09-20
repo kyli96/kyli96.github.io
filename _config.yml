@@ -1,0 +1,14 @@
+# Site settings
+title: kwongyu.li
+subtitle: Random musings of a curious soul
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kyli96.github.io" # the base hostname & protocol for your site
+twitter_username: kwongyuli
+github_username:  kyli96
+
+# Build settings
+markdown: kramdown
+paginate: 10
+paginate_path: "page/:num"
+category_dir: categories
+
