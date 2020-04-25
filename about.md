@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: 作者簡介
 permalink: /about/
 ---
 
-Some of these days I'll tell you more about myself...
+資深工程師。在雅虎、亞馬遜、微軟等科技企業打滾近二十年。現主要活躍於西雅圖、杭州和香港三地。平常喜歡研究分析行業內和身邊所發生的大小有趣事情，並把一堆嘮叨看法記錄下來。
